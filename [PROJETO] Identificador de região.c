@@ -95,15 +95,5 @@ getchar( );
 	printf ( "\nPRESSIONAR <Enter> PARA TERMINAR." );
 	getchar ( ); 
 	return ( EXIT_SUCCESS );
+	//aceito sugestoes para mudanca e melhoria!!
 } 
-/*
-scanf("1","4","3","14","22","23","27");
-printf("\nregiao norte\n");
-
-scanf("8","13","19","25");
-printf("\nregiao sudeste\n");
-
-scanf("2","5","6","10","14","15","17","18","26");
-printf("\nregiao nordeste\n");
-
-system("pause\n");*/
